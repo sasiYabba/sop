@@ -1,11 +1,12 @@
+ 
  ​#!/usr/bin/python2 
  ​# coding=utf-8 
- ​# Coded By SAsiya
- ​# My Facebook ( https://www.facebook.com/sasindu.hacke) 
+ ​# Coded By Yayan XD 
+ ​# My Facebook ( https://www.facebook.com/KM39453 ) 
   
  ​#      (C) Copyright 407 Authentic Exploit 
- ​#      Rebuild Copyright Can't make sl u real programmer:) 
- ​#      Coded By sasiya. 
+ ​#      Rebuild Copyright Can't make u real programmer:) 
+ ​#      Coded By Yayan XD. 
   
  ​import​ ​os 
  ​try​: 
@@ -82,15 +83,11 @@
  ​        ​time​.​sleep​(​1​) 
   
  ​# LO KONTOL 
- ​logo​ ​=​ ​''' ​\033​[0;96m __  __        __  ______  ____
- 
-░██████╗░█████╗░░██████╗██╗
-██╔════╝██╔══██╗██╔════╝██║
-╚█████╗░███████║╚█████╗░██║
-░╚═══██╗██╔══██║░╚═══██╗██║
-██████╔╝██║░░██║██████╔╝██║
-╚═════╝░╚═╝░░╚═╝╚═════╝░╚═╝
- 
+ ​logo​ ​=​ ​''' ​\033​[0;96m __  __        __  ______  ____ 
+ ​ ​\033​[0;96m \ \/ / ____  /  |/  / _ )/ __/ ® ​\033​[0m|| Created By YayanXD 
+ ​ ​\033​[0;96m  \  / /___/ / /|_/ / _  / _/     ​\033​[0m|| Github.com/Yayan-XD 
+ ​ ​\033​[0;96m  /_/       /_/  /_/____/_/ ​\033​[0;91mv2.0  ​\033​[0m|| Facebook.com/KM39453''' 
+  
  ​lo_ngentod​ ​=​ ​'1714009362122228' 
  ​# crack selesai 
  ​def​ ​hasil​(​ok​,​cp​): 
